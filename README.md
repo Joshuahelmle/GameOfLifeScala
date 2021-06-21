@@ -1,3 +1,3 @@
 # GameOfLifeScala
 
-A simple implementation of Johnways Game of Life in Scala3 with a TUI.
+A simple implementation of John Conways Game of Life in Scala3 with a TUI.
